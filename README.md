@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am **Charlie Siagian**.\
+🔭 I’m currently working on **Mobile Developement** field.\
+🌱 I’m currently learning Java and Kotlin for Android and Swift for iOS.\
+😄 I also have experiences on web development and software development in test.\
+📫 You can reach me out on my [Linkedin](https://www.linkedin.com/in/charlie-siagian-326ba68a/)
 <!--
 **charlieperdana/charlieperdana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
