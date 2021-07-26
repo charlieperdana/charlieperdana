@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Charlie Siagian**.\
+I am **Charlie Siagian**.
 - 🔭 I’m currently working on **Mobile Developement** field.\
 - 🌱 I’m currently learning Java and Kotlin for Android and Swift for iOS.\
 - 😄 I also have experiences on web development and software development in test.\
